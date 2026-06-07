@@ -216,6 +216,16 @@ section {
     flex-direction: column;
 }
 
+.projects p {
+    text-align: center;
+    font-size: larger;
+    margin-bottom: 2rem;
+}
+
+.projects p span {
+    font-weight: 900;
+}
+
 .projects .image-wrapper {
     margin-block: 0.5em;
     border-radius: 0.2em;
